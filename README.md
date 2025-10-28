@@ -1,5 +1,10 @@
-# my-tools
-Personal Scripts
-# My Tools
-Just a few scripts I use for work automation.  
-Planning to add more later.  
+# My Tools 🧰
+
+Small collection of personal scripts and utilities that make my daily workflow easier.
+
+## 🧠 What's inside
+- Simple automation scripts
+- Notes for terminal commands
+- Ideas for future tools
+
+More coming soon...

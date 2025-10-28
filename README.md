@@ -8,3 +8,7 @@ Small collection of personal scripts and utilities that make my daily workflow e
 - Ideas for future tools
 
 More coming soon...
+## TODO
+- Add docker automation
+- Add Telegram bot integration
+chore: updated readme with TODO list
